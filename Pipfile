@@ -9,6 +9,7 @@ openai = "*"
 tiktoken = "*"
 python-dotenv = "*"
 wikipedia = "*"
+pexpect = "*"
 
 [dev-packages]
 black = "*"
