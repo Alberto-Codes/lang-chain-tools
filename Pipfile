@@ -8,6 +8,7 @@ langchain = "*"
 openai = "*"
 tiktoken = "*"
 python-dotenv = "*"
+wikipedia = "*"
 
 [dev-packages]
 black = "*"
